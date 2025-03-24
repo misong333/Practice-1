@@ -1,7 +1,7 @@
 # The Midnight Library
 
 <p align="center">
-  <img src="(https://github.com/MK316/Digital-Literacy-Class/blob/main/materials/story01.png)" width="400">
+  <img src="https://github.com/MK316/Digital-Literacy-Class/blob/main/materials/story01.png" width="400">
 </p>
 <p align="center"><em>The Midnight Library</em></p>
 
