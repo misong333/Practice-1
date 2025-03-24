@@ -2,7 +2,7 @@
 
 <figure>
   <img src="https://github.com/MK316/Digital-Literacy-Class/blob/main/materials/story01.png" height="500", width="500">
-  <figcaption>The Midnight Libaray</figcaption>
+  <figcaption> The Midnight Libaray </figcaption>
 </figure>
 
 
