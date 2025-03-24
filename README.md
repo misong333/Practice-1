@@ -1,9 +1,9 @@
 # The Midnight Library
 
-<figure>
-  <img src="[https://github.com/MK316/Digital-Literacy-Class/blob/main/materials/story01.png](https://github.com/MK316/Digital-Literacy-Class/blob/main/materials/story01.png)" height="500", width="500">
-  <figcaption> The Midnight Libaray </figcaption>
-</figure>
+<p align="center">
+  <img src="[https://example.com/image.png](https://github.com/MK316/Digital-Literacy-Class/blob/main/materials/story01.png)" width="400">
+</p>
+<p align="center"><em>Figure 1: The Midnight Library</em></p>
 
 
 In the small town of *Willowby*, there stood an old library that was rumored to be enchanted. Every night at midnight, the books inside would whisper stories to each other, bringing their characters to life. One evening, **Sarah**, a curious 15-year-old book lover, decided to sneak into the library to see if the rumors were true.
